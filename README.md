@@ -7,6 +7,7 @@ Grenoble INP – Ensimag · KTH Royal Institute of Technology
 [LinkedIn](https://www.linkedin.com/in/reda-hmioui) ·
 [arXiv](https://arxiv.org/abs/2608.08040) ·
 [Email](mailto:reda.hmioui@grenoble-inp.org)
+[LeetCode – Reda Hmioui](https://leetcode.com/u/REDAHMIOUI/)
 
 ---
 
