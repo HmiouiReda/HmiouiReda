@@ -42,7 +42,7 @@ The resulting work establishes an **L² universal approximation theorem** and ev
 [A Cylindrical Neural Approximation Theorem for Conditional Laws of McKean–Vlasov Equations with Common Noise](https://arxiv.org/abs/2608.08040)
 
 Co-authored with **Nacira Agram** and **Jan Rems**.
-Currently under review at *Neural Networks* (Manuscript: NEUNET-D-26-07060).
+Currently under review at *Neural Networks* (Manuscript: NEUNET-D-26-07060)
 .
 
 **Code:**
